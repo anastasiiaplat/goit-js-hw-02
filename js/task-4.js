@@ -9,7 +9,7 @@ let price
             price = 250;
             break;
         case 'Australia':
-            price = 250;
+            price = 170;
             break;
         case 'Jamaica':
             price = 120;
